@@ -29,8 +29,7 @@ params:
   ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -80,16 +79,16 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog test
+    Title: "Hi, I am GOODJIN92 \U0001F44B"
+    Content: Welcome to my blog
 
   socialIcons:
     - name: github
       url: "https://github.com/goodjin92"
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
+    # - name: twitter
+    #   url: "https://twitter.com/"
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com"
 
   analytics:
     google:
