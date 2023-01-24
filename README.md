@@ -1,6 +1,6 @@
 # goodjin92.github.io
 
-[goodjin92.github.io](https://github.com/goodjin92/goodjin92.github.io)
+[goodjin92.github.io](https://goodjin92.github.io)
 
 
 
